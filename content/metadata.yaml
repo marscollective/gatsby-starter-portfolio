@@ -1,0 +1,13 @@
+title: Link free
+shortTitle: Link free
+siteUrl: https://themes.marscollective.co
+description: Theme made in Gatsby with Tailwind and Netlify CMS.
+lang: en
+favicon: ''
+colors:
+  DEFAULT: '#045762'
+  muted: '#f3f2da'
+  background: '#fff'
+tracking:
+  which: none
+  id: ''
