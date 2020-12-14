@@ -1,6 +1,6 @@
 {
   "name": "@marscollective/gatsby-starter-portfolio",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
@@ -10,7 +10,7 @@
     "deploy": "yarn build && netlify deploy -p"
   },
   "dependencies": {
-    "@marscollective/gatsby-theme-portfolio": "^0.0.2",
+    "@marscollective/gatsby-theme-portfolio": "^0.1.0",
     "gatsby": "2.28.2",
     "react": "17.0.1",
     "react-dom": "17.0.1"

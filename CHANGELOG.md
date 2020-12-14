@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/marscollective/gatsby-theme-jdoe/compare/@marscollective/gatsby-starter-portfolio@0.0.2...@marscollective/gatsby-starter-portfolio@0.1.0) (2020-12-14)
+
+**Note:** Version bump only for package @marscollective/gatsby-starter-portfolio
+
+
+
+
+
 ## [0.0.2](https://github.com/marscollective/gatsby-theme-jdoe/compare/@marscollective/gatsby-starter-portfolio@0.0.1...@marscollective/gatsby-starter-portfolio@0.0.2) (2020-12-13)
 
 
