@@ -1,1 +1,1 @@
-# Gatsby Theme Landing
+# Gatsby Theme Portfolio
